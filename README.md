@@ -5,7 +5,7 @@
   Olá! Meu nome é <strong>Maria Salvadora</strong>, sou Analista em <strong>Banco de Dados</strong>. Estudo pela Udemy, Youtube e tutorias. Estou
 procurando uma oportunidade, a fim de obter experiências e desenvolver meus conhecimentos na área.
 
-Interesso-me principalmente por  <strong>MSSQL</strong> e
+Interesso-me principalmente pelos SGBD's <strong>MSSQL</strong> e
 <strong>MYSQL</strong>, mas estou sempre disposta a aprender novas
 tecnologias e aberta a oportunidades. Ao encontrar vagas de acordo com as minhas habilidades técnicas, é só entrar em contato.
 </p>
