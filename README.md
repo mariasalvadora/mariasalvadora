@@ -1,4 +1,4 @@
-<img src="./img/pessoa.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="">
+<img src="./img/img.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="">
 
 <text font-size="16" x="10" y="20">
 <p align="left"> 
@@ -13,8 +13,6 @@ tecnologias e aberta a oportunidades. Ao encontrar vagas de acordo com as minhas
 <p align="left">
   Ferramentas: <strong>Console do MySQL, Workbench, Management Studio, Git & GitHub.</strong>
 </p>
-
-</br>
 
 <p align="rigth">
   E-mail: mscflorentino@gmail.com
