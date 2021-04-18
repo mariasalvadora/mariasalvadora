@@ -21,7 +21,6 @@ tecnologias e aberta a oportunidades. Ao encontrar vagas de acordo com as minhas
   Cel: (48)99140-7642
 </p> 
 
-</br>
 <p align="left">
   
   <a href="https://www.linkedin.com/in/mariasalvadora/" alt="Linkedin">
