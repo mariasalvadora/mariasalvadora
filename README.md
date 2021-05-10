@@ -11,7 +11,7 @@ tecnologias e aberta a oportunidades. Ao encontrar vagas de acordo com as minhas
 </p>
 
 <p align="left">
-  Ferramentas: <strong>Google Colab,Jupyter Notebook, Console do MySQL, Workbench, Management Studio, Git & GitHub.</strong>
+  Ferramentas: <strong>Google Colab, Jupyter Notebook, Console do MySQL, Workbench, Management Studio, Git & GitHub.</strong>
 </p>
 
 <p align="rigth">
