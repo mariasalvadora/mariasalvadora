@@ -2,8 +2,7 @@
 
 <text font-size="16" x="10" y="20">
 <p align="left"> 
-  Olá! Meu nome é <strong>Maria Salvadora</strong>, sou Analista em <strong>Banco de Dados</strong>. Estudo pela Udemy, Youtube e tutorias. Estou
-procurando uma oportunidade, a fim de obter experiências e desenvolver meus conhecimentos na área.
+  Olá! Meu nome é <strong>Maria Salvadora</strong>, sou Analista em <strong>Banco de Dados</strong>. Faço cursos de aceleração pela #Gama #Acadamy, Youtube e tutorias. Estou procurando uma oportunidade, a fim de obter experiências e desenvolver meus conhecimentos na área.
 
 Interesso-me principalmente pelos SGBD's <strong>MSSQL</strong> e
 <strong>MYSQL</strong>, mas estou sempre disposta a aprender novas
